@@ -1,0 +1,36 @@
+[
+    {
+        "EMPID" : "EMP1",
+        "name" : "Hudrogen",
+        "lastname" : "fjf",
+        "designation" : "Staff"
+        
+    },
+
+    {
+        "EMPID" : "EMP2",
+        "name" : "Hudrogen2",
+        "lastname" : "fjf2",
+        "designation" : "Staff2"
+        
+    },
+
+    {
+        "EMPID" : "EMP3",
+        "name" : "Hudrogen3",
+        "lastname" : "fjf3",
+        "designation" : "Staff3"
+        
+    },
+
+    {
+        "EMPID" : "EMP1",
+        "name" : "Hudrogen",
+        "lastname" : "fjf",
+        "designation" : "HOD"
+        
+    }   
+
+    
+    
+]
