@@ -1,0 +1,11 @@
+[
+    {
+        "EMPID" : "EMP1",
+        "name" : "Hydrogen",
+        
+        "designation" : "Staff",
+        "Type" : "Salary Certificate",
+        "Certificate_id" : "Id1",
+        "duration" : "2/2/2-3/3/3"
+    }
+]
